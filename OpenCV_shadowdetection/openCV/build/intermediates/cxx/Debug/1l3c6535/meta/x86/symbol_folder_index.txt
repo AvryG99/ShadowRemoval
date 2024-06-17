@@ -1,0 +1,1 @@
+D:\Android\lab6\Mobile-Lab-Lab6\Mobile-Lab-Lab6\OpenCV_shadowdetection\openCV\build\intermediates\cxx\Debug\1l3c6535\obj\x86
